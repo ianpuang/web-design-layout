@@ -16,3 +16,18 @@ p{
 	text-align: center;
 
 }
+
+.box{
+	background-color: grey;
+	color: white;
+	box-sizing: border-box;
+	padding: 20px;
+	margin: 40px;
+	border: 10px solid purple;
+}
+
+h2{
+	font-size: 60px;
+	margin: 0;
+	background-color: #fa8072;
+}
