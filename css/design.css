@@ -8,8 +8,9 @@ button{
 }
 p{
 	font-size: 30px;
-	width: 90px;
-	height: 90px;
+	box-sizing: border-box;
+	width: auto;
+	height: auto;
 	padding: 50px;
 	border: solid 10px black;
 	background-color: pink;
@@ -33,7 +34,8 @@ h2{
 }
 
 .content{
-	padding-left: 100px;
+	border: 10px solid #000;
+	padding: 100px;
 	text-align: center;
-	margin: 0 auto;
+	margin: 100px auto;
 }
